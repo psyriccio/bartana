@@ -1,5 +1,5 @@
 # bartana
-random image generation + genetic algorithm + similiraty comparison (repeat) 
+random image generation + genetic algorithm + similarity comparison (repeat) 
 
 ##Base image 1
 <img src="https://raw.githubusercontent.com/tloureiro/bartana/master/images/base1.png" alt="Base Image 1"/>
